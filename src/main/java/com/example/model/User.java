@@ -2,6 +2,7 @@ package com.example.model;
 
 import jakarta.persistence.*;
 
+//TODO Add more fields and their validation using lombok
 @Entity
 @Table(name="UserInfo")
 public class User {
