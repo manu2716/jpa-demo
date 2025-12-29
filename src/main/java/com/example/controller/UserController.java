@@ -5,6 +5,7 @@ import com.example.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+//TODO Write Junit Tests
 //TODO Implement Controller Advice with ResponseEntityExceptionHandler
 //TODO Implement logging
 //TODO Implement Swagger
