@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.*;
 //TODO Implement Controller Advice with ResponseEntityExceptionHandler
 //TODO Implement logging
 //TODO Implement Swagger
+//TODO Create different profiles
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
