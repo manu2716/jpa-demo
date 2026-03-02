@@ -12,7 +12,7 @@
 	<artifactId>jpa-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpa-demo</name>
-	<description>spring boot application for intergrating jpa</description>
+	<description>spring boot application for integrating jpa</description>
 	<url/>
 	<licenses>
 		<license/>
